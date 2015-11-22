@@ -1,5 +1,5 @@
 # unlabeled-graph-samplers
-## Unbiased random samplers for distance-hereditary and three-leaf power graphs
+## Unbiased random samplers for distance-hereditary and three-leaf power graphs <br> (Paper: http://arxiv.org/abs/1511.06037)
 
 ### Samplers (Maple)
 
